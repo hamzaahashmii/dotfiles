@@ -11,3 +11,15 @@ Applications/
 .bash_history
 .bash_sessions/
 .DS_Store
+.CFUserTextEncoding
+.azuredatastudio/
+.config/
+.docker/
+.lesshst
+.oracle_jre_usage/
+.ssh/
+OneDrive
+Resume/
+Screen Recording *.mov
+Screen Recording *.zip
+matlab_crash_dump.*
