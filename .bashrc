@@ -1,1 +1,1 @@
-# My bash config
+# Bash configuration
